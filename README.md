@@ -6,32 +6,18 @@ I am a passionate software developer with a keen interest in web development, op
 
 ### 🛠️ Technologies & Tools
 
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Express, Django
+- **Languages**: C++, Python, JavaScript, Typescript 
+- **Frameworks**: React, Next.js, Node.js, Express, Django, FsttAPI, Langchain, Langgraph 
 - **Databases**: MySQL, MongoDB, PostgreSQL
+- **Cloud**: AWS, Azure, GCP
 - **Tools**: Git, Docker, Kubernetes, Jenkins
-
----
-
-### 🌱 Currently Learning
-
-- Advanced React patterns
-- Microservices architecture
-- Cloud services (AWS, Azure)
-
----
-
-### 📈 GitHub Stats
-
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-bilal-raza&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 How to Reach Me
 
-- Email: bilal.raza@example.com
-- LinkedIn: [Bilal Raza](https://www.linkedin.com/in/bilal-raza/)
-- Twitter: [@bilal_dev](https://twitter.com/bilal_dev)
+- Email: devbilalraza@gmail.com
+- LinkedIn: [Bilal Raza](https://www.linkedin.com/in/dev-bilal-raza/)
 
 ---
 
